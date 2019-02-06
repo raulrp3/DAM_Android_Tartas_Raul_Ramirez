@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio_Tartas</string>
+    <string name="head">Juego de Tartas</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_surname">Apellidos</string>
+    <string name="hint_age">Edad</string>
+    <string name="hint_sex">Sexo</string>
+    <string name="other">¿Has participado en otro concurso?</string>
+    <string name="hint_other">¿En qué concurso has participado?</string>
+    <string name="button">Acceder</string>
+</resources>
